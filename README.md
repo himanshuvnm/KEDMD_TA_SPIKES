@@ -81,7 +81,7 @@ We compare the finite-time amplification of the underlying neural dynamics with 
 ### Linearized Excitatory–Inhibitory Population Model
 
 <p align="center">
-  <img src="figures/LINEAR-EI/EI_exact_vs_KEDMD_transient_polished.png" width="900">
+  <img src="figures/LINEAR-EI/EI_exact_vs_KEDMD_transient_polished.pdf" width="900">
 </p>
 
 [PDF version](figures/LINEAR-EI/EI_exact_vs_KEDMD_transient_polished.pdf)
